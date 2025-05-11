@@ -227,7 +227,7 @@
         Alternate {
             bindings = <
         &kp Q         &kp W        &kp F          &kp P        &kp B     &kp J   &kp L        &kp U          &kp Y        &kp SEMICOLON
-        &hml LCTRL A  &hml LALT R  &hml LSHIFT S  &hml LGUI T  &kp G     &kp M   &hml RGUI N  &hml RSHIFT E  &hml RALT I  &hml RCTRL O
+        &hml LCTRL A  &hml LALT R  &hml LSHIFT S  &hml LGUI T  &kp G     &kp M   &hmr RGUI N  &hmr RSHIFT E  &hmr RALT I  &hmr RCTRL O
 &trans  &kp Z         &kp X        &kp C          &kp D        &kp V     &kp K   &kp H        &kp COMMA      &kp PERIOD   &kp SLASH      &trans
                                    &trans         &trans       &trans    &trans  &trans       &trans
             >;
